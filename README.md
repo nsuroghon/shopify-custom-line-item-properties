@@ -21,4 +21,4 @@ Github: https://github.com/nsuroghon
 
 Email: nsuroghon@gmail.com
 
-![Screenshot of Product Form.](/Screen%20Shot%202023-01-16%20at%204.35.57%20PM.png "Screenshot of Product Form."
+![Screenshot of Product Form.](/example-image.png "Screenshot of Product Form."
