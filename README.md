@@ -1,19 +1,24 @@
-# shopify-custom-line-item-properties
+# Shopify custom line item properties
 
 Collect custom information for products without a product customization app.
 
-# Product Form
+[Line Item Object - Shopify Doc](https://shopify.dev/api/liquid/objects/line_item)
+
+## Product Form
 
 Create new alternate product page template for your customizable product.
 Include code block from product-template-customizable.liquid in your new page's form, above the submit button. 
 
-**Image
-
-# Cart Item
+## Cart Item
 
 Display your custom variant / line-item in the cart. 
 
 Find {{ item.product.title }}, or your product item in the cart template. 
 Include code block from cart-template-liquid to assign custom variant/ line item properties as part of the product item in the cart. 
 
-**Image
+# More Info
+Github: https://github.com/nsuroghon
+
+Email: nsuroghon@gmail.com
+
+![Screenshot of Product Form.](/Screen%20Shot%202023-01-16%20at%204.35.57%20PM.png "Screenshot of Product Form."
