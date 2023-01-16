@@ -21,4 +21,4 @@ Github: https://github.com/nsuroghon
 
 Email: nsuroghon@gmail.com
 
-![Screenshot of Product Form.](/example-image.png "Screenshot of Product Form."
+![Screenshot of Product Form.](https://github.com/nsuroghon/shopify-custom-line-item-properties/blob/2b5f90942fe26e4edfe183c52c12b63cf693f458/example-image.png "Screenshot of Product Form."
